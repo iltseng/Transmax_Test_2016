@@ -1,0 +1,12 @@
+[ Introduction ]
+    This computer program was developed in C++ under Linux environment.
+    It is recommended to use g++ to compile the source code.
+    Note that a Makefile has been provided.
+
+[ Compilation ]
+    $ make
+
+[ Program Execution ]
+  Example:
+    $ ./grade-scores names.txt
+
